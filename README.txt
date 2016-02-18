@@ -12,3 +12,6 @@ Running :
 Regular commands like ls, grep can be executed.
 cd command can be executed.
 commands with multiple piping and input/output redirection can be executed.
+
+
+Refer design.pdf for more detailed design of the Shell.
