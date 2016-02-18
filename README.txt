@@ -1,3 +1,5 @@
+My Simple Bash Shell
+
 Compilation :
 	lex shell.l
 	gcc -c lex.yy.c -lfl
