@@ -1,6 +1,6 @@
-#My Simple Bash Shell
+My Simple Bash Shell
 
-##Compilation :
+Compilation :
 	lex shell.l
 	gcc -c lex.yy.c -lfl
 	gcc -c myshell.c
